@@ -4,10 +4,14 @@ codepen url: https://codepen.io/shazeen15/pen/oNxGNQa?editors=1100
 <!--
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
-    1. What is Semantic HTML? 
-    2. What is HTML used for? 
-    3. What is an attribute and where do we put it? 
+    1. What is Semantic HTML?
+        An element with meaning.
+    2. What is HTML used for?
+        to mark up the page
+    3. What is an attribute and where do we put it?
+        attribute give the element more meanning and you place it after an element
     4. What is the h1 tag used for? How many times should I use it on a page?
+        h1 is the main title of a page and it is best to use it once.
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
@@ -45,7 +49,9 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
+        inline element can be all in one line together. block elements take up their own line
+    2. What happens when an element is positioned absolutely?
+        its no longer in the flow of the web page
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
